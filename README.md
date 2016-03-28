@@ -1,0 +1,3 @@
+# .spacemacs.d
+
+Spacemacs configuration.
